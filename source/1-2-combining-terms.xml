@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-1-2-combining-terms">
+    <title>Combining Terms</title>
+    <objectives>
+        <p>
+            I can ...
+            
+        </p>
+        <ul>
+                <li>
+                    <p>
+                        Identify like terms.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Combine like terms.
+                    </p>
+                </li>
+            </ul>
+    </objectives>
+    <introduction>
+        <p>
+            In this section, we will look more closely at terms. What cool stuff can we do with terms? Read carefully; this content will be important later on.
+        </p>
+    </introduction>
+    <p>
+        First, we must understand <term>like terms</term>. Like terms are terms that have the same variables and the same exponents.
+    </p>
+    <definition xml:id="def-like-terms">
+        <statement>
+            <p>
+                Like terms are terms that have the same variables and the same exponents.
+            </p>
+        </statement>
+    </definition>
+
+    <example>
+        <statement>
+            <p>
+                Identify all the like terms in the expression: <m>a^2b + a^2c + 2ab + ab + 2a^2c</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Let's identify all of the factors in each term.
+                <tabular>
+                    <row>
+                        <cell>Term</cell>
+                        <cell>Factors</cell>
+                    </row>
+                    <row>
+                        <cell><m>a^2b</m></cell>
+                        <cell><m>a^2,b</m></cell>
+                    </row>
+                    <row>
+
+                        <cell><m>a^2c</m></cell>
+                        <cell><m>a^2, c</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>2ab</m></cell>
+                        <cell><m>2, a, b</m></cell>
+                    </row>
+                    <row>
+                        <cell>ab</cell>
+                        <cell>a, b</cell>
+                    </row>
+                    <row>
+                        <cell><m>2a^2c</m></cell>
+                        <cell>2, <m>a^2</m>, c</cell>
+                    </row>
+                </tabular>
+                Next, let's identify the terms that have the same variables (like a), and exponents. <m>a^2b</m> has the variables <m>a</m> and <m>b</m>. Could <m>2ab</m> be a like term? No. The exponents for <m>a^2</m>b are 2 and 1. The exponents for 2ab are 1 and 1. The exponents aren't the same. You cannot add <m>a^2</m> and a. It turns out there aren't any like terms for a<m>^2</m>b. Let's move on. Are there any like terms for <m>a^2c</m>? Notice the variables are a and c. What other terms have a and c as factors? <m>2a^2c</m> works. Are the exponents the same? Notice there is an <m>a^2</m> (a with an exponent of 2) in both terms. Both terms also have c (with no exponent), too. So, the variables and exponents are the same. <m>a^2c</m> and <m>2a^2c</m> are like terms.
+            </p>
+            <p>
+                Your turn. Does 2ab have any like terms? What are its variables? What are its exponents? Are there any other terms that have the same variables and the same exponents?  
+            </p>
+        </solution>
+    </example>
+    <exercise>
+        <statement>
+            <p>
+                Identify the like terms in the expression <m>x^2y + 3yx + 9x^2 + 3yx^2 + \frac{1}{2}x^2</m>.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                <m>x^2y</m> and 3yx<m>^2</m>, 9x<m>^2</m> and <m>\frac{1}{2}</m>x<m>^2</m>, 3yx has no like terms
+            </p>
+        </answer>
+    </exercise>
+    We can add like terms like so:
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>2ab + 3ab</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                We can write 2ab as "ab + ab" and 3ab as "ab + ab + ab". Thus, 2ab + 3ab = ab + ab + ab + ab + ab. Just as 4 + 4 + 4 = 3 <m>\times</m> 4, ab + ab + ab + ab + ab = 5 <m>\times ab</m> or 5ab. Notice that we also could just add the <term>coefficients</term> (like 2 and 3 in 2ab and 3ab) to get 5ab. 
+            </p>
+            
+        </solution>
+    </example>
+    <definition xml:id="def-coefficient">
+        <statement>
+            <p>
+                A <term>coefficient</term> of a term is a constant factor. For example, the coefficient of 2a would be 2.
+            </p>
+        </statement>
+    </definition>
+    <observation>
+        <p>
+            When combining like terms, we can just add the coefficients.
+        </p>
+    </observation>
+    <p>Let's do an example regarding coefficients.</p>
+    <example>
+        <statement>
+            <p>
+                For each term below, find the coefficient.
+                <ol>
+                    <li>
+                        <p>
+                            ac
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            4mx
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            9x
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            17p
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <m>-</m>4y
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            The coefficient is 1. If no coefficient is given, assume the coefficient is 1. 
+                            <warning>
+                                <p>
+                                    The coefficient is NOT a. a is a variable, not a constant. 
+                                </p>
+                            </warning>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            The coefficient is 4. 
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            The coefficient is 9.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            The coefficient is 17.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            The coefficient is -4. Were you about to say 4 (positive 4)? Remember your signs!
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </solution>
+    </example>
+    <observation>
+        <p>
+            Remember your signs! -4 is not the same as (positive) 4!
+        </p>
+    </observation>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>3x^2y + xy^2 + 2xy^2 + xy</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                This problem is slightly more complex. First, we must identify like terms. We can see that xy<m>^2</m> and 2xy<m>^2</m> are like terms. There are no other sets of like terms in this expression. Next, we need to add our like terms. We can write xy<m>^2</m> as 1xy<m>^2</m>. Then, we can add the coefficients. <m>1xy^2 + 2xy^2 = 3xy^2</m>. Let's put that back into the expression. <m>3x^2y + 3xy^2 + xy</m> is our final answer.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression 4x - x.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Let's write this out. x means 1x, so -1x would just be -x. 4x would be x + x + x + x. Writing this out, we get, x + x + x + x - x. x - x is 0, so we get x + x + x or 3x. Notice we could also have noticed that the coefficient of -x is -1, and you might have just added 4 and -1 to get the coefficient 3. 
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>3xy \times 4xy</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                What's wrong with this solution?
+                <assemblage xml:id="assemblage-bogus-noliketermsinmultiplication">
+                    <title>Bogus Solution</title>
+                    <p>
+                        Since the variables and exponents are the same, we can combine 3xy and 4xy to get 7xy.
+                    </p>
+                </assemblage>
+                Were you about to make that error? 
+                It turns out that 3xy and 4xy are not like terms. In fact, they are not terms at all. There is only one term in the expression given. Do you see why?
+            </p>
+        </solution>
+    </example>
+    <warning>
+        <p>
+            Multiplication is not addition. You cannot add coefficients of factors. Multiplying two factors is NOT combining like terms.
+        </p>
+    </warning>
+    <exercise>
+        <introduction>
+            <p>
+                Simplify the following expressions.
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>9am - 3am</m>
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    6am
+                </p>
+            </answer>
+            <solution>
+                <p>
+                    Add the coefficients. 9 + (-3) is 6. Thus, the coefficient must be 6; we get 6am. 
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    4ac<m>^2</m> + 4ab<m>^3</m>
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    4ac<m>^2</m> + 4ab<m>^3</m>
+                </p>
+            </answer>
+            <solution>
+                <p>
+                    Notice that there are no like terms in 4ac<m>^2</m> + 4ab<m>^3</m> because the variables are not the same. Thus, this expression cannot be simplified. 
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    8abc - 7ac + 3abc
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    5abc - 7ac
+                </p>
+            </answer>
+        </task>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Identify the coefficient in each term in the expression below.
+            </p>
+            <p>
+                <md>
+                    <mrow> 6m - 5u^2 + 3p^3 </mrow>
+                </md>
+            </p>
+        </statement>
+        <answer>
+            <p>
+                The coefficient of 6m is 6. <line /> The coefficient of <m>-5u^2</m> is -5. The coefficient of 3p<m>^3</m> is 3. 
+            </p>
+        </answer>
+    </exercise>
+</section>

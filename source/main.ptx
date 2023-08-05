@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <docinfo>
+    <macros>
+      \newcommand{\R}{\mathbb R}
+    </macros>
+    <latex-image-preamble>
+      \usepackage{tzplot}
+      \usepackage{tkz-euclide}
+    </latex-image-preamble>
+  
+    <rename element="objectives">Learning Intentions</rename>
+    <rename element="observation">Important!</rename>
+    <rename element="fact">Concept</rename>
+  </docinfo>
+
+  <book xml:id="intro-algebra">
+    <title>An Introduction to Algebra</title>
+    <subtitle>Year 10 and Year 11 Algebra</subtitle>
+
+    <frontmatter xml:id="frontmatter">
+      <titlepage>
+        <author>
+          <personname>Dalton Ma</personname>
+        </author>
+        <date>
+          <today />
+        </date>
+      </titlepage>
+
+      <colophon>
+
+
+        <copyright>
+          <year>2020<ndash />2023</year>
+          <holder>Dalton Ma</holder>
+          <shortlicense> 
+            All Rights Reserved
+          </shortlicense>
+        </copyright>
+      </colophon>
+    </frontmatter>
+    <xi:include href="./chap-01.xml" />
+    <xi:include href="./chap-02.xml" />
+    <backmatter xml:id="backmatter">
+      <colophon>By Dalton Ma</colophon>
+      <solutions divisional="hint" inline="hint">
+        <title>Hints</title>
+      </solutions>
+      <solutions divisional="answer solution" inline="answer solution">
+        <title>Solutions</title>
+      </solutions>
+    </backmatter>
+  </book>
+</pretext>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exercises xml:id="exercises-chap1">
+    <exercise>
+        <statement>
+            <p>
+                How many terms are in the expression <m>8x^yz + 3xz^2</m>?
+            </p>
+        </statement>
+        <answer>
+            <p>
+                2
+            </p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                List the terms in the expression 15x<m>^2</m> + 6x + 2.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                15x<m>^2</m>, 6x, 2
+            </p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                List the terms in the expression 3 &#215; 5x<m>^2</m> 
+            </p>
+        </statement>
+        <answer>
+            <p>
+                15x<m>^2</m> or 3<m>\times</m>5x<m>^2</m>
+            </p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                List the terms in the expression 3 + 5x.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                3, 5x
+            </p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                List all of the like terms in the expression 4x + 4y.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                There are no like terms.
+            </p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                List all of the like terms in the expression 8ab + 9ab + 3ac.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                8ab and 9ab are like terms.
+            </p>
+        </answer>
+        <solution>
+            <p>
+                Both 8ab and 9ab have the variables a and b. 3ac has no like terms because there are no other terms with the variables a and c.
+            </p>
+        </solution>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Determine if 8a<m>^2</m>c and 9ac<m>^2</m> are like terms.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                8a<m>^2</m>c and 9ac<m>^2</m> are not like terms.
+            </p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Determine if 9mb and 11mb are like terms.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                9mb and 11mb are like terms.
+            </p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Simplify 11mb + 9mb.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                20mb
+            </p>
+        </answer>
+        <solution>
+            <p>
+                Add the coefficients: mb(11 + 9) = 20mb.
+            </p>
+        </solution>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Simplify 18m + 12mb + 13m &#215; 2b.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                18m + 38mb
+            </p>
+        </answer>
+        <solution>
+            <p>
+                First, do multiplication: 13m <m>\times</m> 2b is 13 &#215; 2 &#215; mb <m>\rightarrow</m> 26mb. Next add: 18m + 12mb + 26mb. 12mb and 26mb are like terms, so we can add the coefficients: 38mb. So, the final answer is <m>\boxed{\text{38mb}}</m>.
+            </p>
+        </solution>
+    </exercise>
+</exercises>

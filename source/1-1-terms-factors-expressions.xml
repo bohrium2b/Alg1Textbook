@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-1-1-terms-factors-expressions">
+    <title>Terms, Factors, Expressions, oh my!</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Identify Terms and Factors in an expression.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Identify like terms in an expression.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <introduction>
+        <p>
+            In this section, we will look at terms and factors in expressions. Let's start by introducing some key vocabulary.
+        </p>
+    </introduction>
+    <definition xml:id="def-term">
+        <statement>
+            <p>
+                <term>Terms</term> are separated by plusses and minuses.
+            </p>
+        </statement>
+    </definition>
+    <p>
+        Before you continue, you might notice all the examples. After most "learning bits", like definitions, strategies, etc., we have an example, which we encourage you to try. After all, you will only learn math by doing problems, not reading about us doing problems. 
+    </p>
+    <example>
+        <statement>
+            <p>
+                How many terms are in the expressions below?
+                <ol>
+                    <li>
+                        <p>
+                            <m>a + b + c</m>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <m>2a</m>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <m>a + 2(b + c)</m>
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            There are 3 terms: <m>a</m>, <m>b</m>, and <m>c</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            There is just 1 term: <m>2a</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            There are 2 terms: <m>a</m> and <m>2(b + c)</m>. Brackets only count as 1 term.
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </solution>
+    </example>
+    <definition xml:id="def-factor">
+        <statement>
+            <p>
+                <term>Factors</term> are separated by multiplication and division.
+            </p>
+        </statement>
+    </definition>
+    <example>
+        <statement>
+            <p>
+                What are the factors of <m>2abc</m>?
+            </p>
+        </statement>
+        <solution>
+            <p>
+                The factors of <m>2abc</m> are 2, a, b, and c. <m>2abc</m> can be written as <m>2 \times a \times b \times c</m>, and there are 3 numbers/variables separated by multiplication and/or division signs.
+            </p>
+        </solution>
+    </example>
+    <p>
+        The next example problem will be a bit harder. 
+    </p>
+    <example>
+        <statement>
+            <p>
+                Find the factors of <m>6</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                The factors of a number are two numbers that multiply to get that number. You might recognise that <m>6</m> is divisible by 2 and 3. You might also notice that <m>2 \times 3 = 6</m>. Since 2 and 3 are separated by multiplication signs, <m>2</m> and <m>3</m> are factors of <m>6</m>.
+            </p>
+        </solution>
+    </example>
+    <p>
+        Next up are a couple of example exercises. You should make sure to try them BEFORE you look at the answers (I know you all too well :) ). If you are stuck, you should look at the hint, but PLEASE don't look at the answer. This ruins the whole point of the exercise. It is for you to do it, not us.
+    </p>
+    <exercise>
+        <introduction>
+            <p>
+                In each part, there is an expression. For each term, state the factor(s). 
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>abc</m>
+                </p>
+            </statement>
+            <hint>
+                <p>
+                    Where should the addition signs go? How many are there? Where should the multiplication signs go? How many are there?
+                </p>
+            </hint>
+            <answer>
+                <p>
+                    There is one term, whose factors are <m>a, b, c</m>. 
+                </p>
+            </answer>
+            <solution>
+                <p>
+                    Write <m>abc</m> as <m>a \times b \times c</m>. Since there are 3 items separated by multiplication signs, there are 3 factors.
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>3xy + 2yz + 7ab</m>
+                </p>
+            </statement>
+            <hint>
+                <p>
+                    Pick out all of the terms. See if you can put any multiplication signs anywhere.
+                </p>
+            </hint>
+            <answer>
+                <p>
+                    <tabular>
+                        <row>
+                            <cell><m>Term</m></cell>
+                            <cell>Factors</cell>
+                        </row>
+                        <row>
+                            <cell>3xy</cell>
+                            <cell>3, x, y</cell>
+                        </row>
+                        <row>
+                            <cell>2yz</cell>
+                            <cell>2, y, z</cell>
+                        </row>
+                        <row>
+                            <cell>7ab</cell>
+                            <cell>7, a, b</cell>
+                        </row>
+                    </tabular>
+                </p>
+            </answer>
+        </task>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                How many terms are in the expression <m>3a + 4(b + c)</m>?
+            </p>
+        </statement>
+        <answer>
+            <p>
+                2
+            </p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Factor <m>6axyz</m>.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                <m>6 \times x \times y \times z</m>
+            </p>
+        </answer>
+    </exercise>
+</section>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-2-1-basic-exponents">
+    <title>Basic Exponents</title>
+    <introduction>
+        <p>
+            Yay! We will now look at basic exponents! Let's dive right in!
+        </p>
+    </introduction>
+    <example>
+        <statement>
+            <p>
+                Write <m>3 \times 3 \times 3</m> as an exponent.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                We are multiplying 3 by itself 3 times. We can write that as <m>3^3</m>.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Write <m>x \times x \times x</m> as an exponent.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Similar to the previous example, we are multiplying x times itself 3 times and we would write it as <m>x^3</m>.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Write x as an exponent.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                We are multiplying x by itself 1 time to get just x. We can write this as <m>x^1</m>.
+            </p>
+        </solution>
+    </example>
+    <p>Let's do a few exercises. You should really try to understand the solutions for these, as you will need these skills next lesson. Have fun!</p>
+    <exercise>
+        <statement>
+            <p>
+                Write <m>y \times y \times y \times y</m> as an exponent.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                y<m>^4</m>.
+            </p>
+        </answer>
+        <solution>
+            <p>
+                We are multiplying y by itself 4 times, to get y<m>^4</m>.
+            </p>
+        </solution>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Write the expression <m>x \times x \times x \times x \times x</m> as an exponent.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                x<m>^5</m>
+            </p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Write <m>4 \times 4 \times 4 \times x</m>.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                4<m>^3</m>x
+            </p>
+        </answer>
+        <solution>
+            <p>
+                We are multiplying 4 by itself 3 times, so we write <m>4^3</m>, and we are multplying that by <m>x</m>. Thus, we can write <m>4^3x</m>.
+            </p>
+        </solution>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Write <m>5 \times x \times x \times x \times y \times y</m> as an exponent.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                5x<m>^3</m>y<m>^2</m>
+            </p>
+        </answer>
+        <solution>
+            <p>
+                We are multiplying x by itself 3 times and y by itself 2 times. We can write those as x<m>^3</m> and y<m>^2</m>. Since we are multiplying all of those together, we can write it as 5x<m>^3</m>y<m>^2</m>.
+            </p>
+        </solution>
+    </exercise>
+    <p>That's all for this lesson! We'll continue with multiplying exponents in the next lesson!</p>
+</section>

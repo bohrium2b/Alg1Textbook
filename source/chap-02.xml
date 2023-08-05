@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-02-exponents" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Exponent Rules</title>
+    <introduction>
+        <p>
+            Woah! You survived Chapter 1! Good job. It was hard. Unfortunately, it gets harder from here. This chapter, we will look more at multiplying expressions. We will look at multiplying expressions with the same variables.
+        </p>
+    </introduction>
+    <xi:include href="./2-1-basic-exponents.xml" />
+    <xi:include href="./2-2-multiplying-exponents.xml" />
+</chapter>

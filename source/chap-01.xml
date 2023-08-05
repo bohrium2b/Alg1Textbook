@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-01-expressions1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>An Introduction to Algebraic Expressions</title>
+    <introduction>
+        <p>
+            Welcome! You successfully made it to the first chapter! Depending on where you are reading this, this is more or less of a feat. If you are, say, studying while at war or hiding from aliens, congratulations! It is hard enough to study math normally; studying math while hiding from aliens or war is nearly impossible, I would imagine. If you are at school and are being forced to read this, good job, you are reading. If you are doing this of your own accord, ... why? In this chapter, we will look at "Algebraic Expressions", whatever those are. It would probably be a good idea to keep some scratch paper near you, so that you can work alongside us on the problems. Are you ready? Let's go!
+        </p>
+    </introduction>
+    <xi:include href="./1-1-terms-factors-expressions.xml" />
+    <xi:include href="./1-2-combining-terms.xml" />
+    <xi:include href="./1-3-combining-factors-basic.xml" />
+    <xi:include href="./1-exercises.xml" />
+</chapter>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-1-3-combining-factors-basic">
+    <title>Combining Factors I</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Combine factors
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <introduction>
+        <p>
+            In the last lesson, we learned how to combine like terms. We introduced the idea of coefficients. In this lesson, we will introduce combining factors. This lesson, we will jump right into the examples. 
+        </p>
+    </introduction>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>4 \times 3</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                This is relatively straightforward, 4 <m>\times</m> 3 is <m>\boxed{\text{12}}</m>.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression a <m>\times</m> b.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                There isn't anything to simplify here. We can just rewrite this as ab to save space.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression 4a <m>\times</m> 3b.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                We can rearrange this as 4 <m>\times</m> 3 <m>\times</m> a <m>\times</m> b. As before, we can simplify 4 <m>\times</m> 3 to get 12. We can rewrite this as <m>12 \times ab</m> or 12ab.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>\frac{\text{6m}}{2}</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                We can rewrite this as <m>\frac{6}{2}m</m>. <m>\frac{6}{2}</m> is 3, so our answer is 3m.
+            </p>
+        </solution>
+    </example>
+    <p>
+        This is a rather short lesson. Before we can cover the rest of this topic, we need to talk about exponent rules, which is coming up in the next chapter. We'll see you there! But first, do these quick checkpoint exercises and the exercises for this chapter. 
+    </p>
+    <exercise>
+        <statement>
+            <p>
+                Simplify the expression <m>3m \times 2b</m>.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                6bm
+            </p>
+        </answer>
+        <solution>
+            <p>
+                2 <m>\times</m> 3 is 6. m &#215; b is mb. 6 &#215; mb is 6mb.
+            </p>
+        </solution>
+    </exercise>
+</section>

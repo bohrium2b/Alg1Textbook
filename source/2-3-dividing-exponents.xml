@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-2-3-dividing-exponents">
+    <title>Dividing Exponents</title>
+    <introduction>
+        <p>
+            Hopefully, you feel relatively comfortable with the ideas presented last lesson. We will continue on this idea by disassembling exponents and exploring properties of these exponents.
+        </p>
+    </introduction>
+    <example>
+        <statement>
+            <p>
+                Expand the exponent <m>2^3</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                We know that 2<m>^3</m> is 2 multiplied by itself 3 times, so we write it as <m>2 \times 2 \times 2</m>.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Expand the exponent <m>x^3</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Let's use the logic from the previous example to write this as <m>x \times x \times x</m>.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>x^3 \times x^2</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Well, let's start by expanding <m>x^3</m>, which we write as <m>x \times x \times x</m>. We will now expand <m>x^2</m>, which we write as <m>x \times x</m>. Let's write this out fully: <m>{ \color{blue}x \times x \times x} \times {\color{red} x \times x}</m>. Now, we can write that as an exponent, similar to what we did in Lesson 1. We are multiplying x by itself 5 times, so we get <m>x^5</m> as our final answer.
+            </p>
+        </solution>
+    </example>
+    <p>
+        In the last example, notice how we combined the exponents. 
+    </p>
+    <observation>
+        <statement>
+            <p>
+                When multiplying exponents, you can add the exponents. Or, in math terms, <m>x^a \times x^b = x^{a + b}</m>.
+            </p>
+        </statement>
+    </observation>
+    <p>
+        Now let's do some more examples.
+    </p>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>x^4 \times x^2</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Let's do this 2 ways. First, we can do it the long way that writes it out, and then let's do it the short way. First up, let's do the long way! We can write <m>x^4</m> as <m>x \times x \times x \times x</m> and <m>x^2</m> as <m>x \times x</m>. Multiplying those together, we get <m>x \times x \times x \times x \times x \times x</m> or <m>x^6</m>. Let's do it the 2nd way. We will add the exponents first: 4 <m>+</m> 2 is 8, so x<m>^4</m> <m>\times</m> x<m>^2</m> is x<m>^6</m>.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>x^2 \times x^3</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Let's do this the fast way: <m>2 + 3 = 5</m>, so <m>x^2 \times x^3 = x^5</m>.
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>x^2 + x^3</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                What's wrong with this solution?
+                <assemblage xml:id="assemblage-bogus-add-exponents">
+                    <title>Bogus Solution</title>
+                    <p>
+                        Let's add the exponents. 2 + 3 = 5, so <m>x^2 + x^3 = x^5</m>.
+                    </p>
+                </assemblage>
+                Do you remember the rules for adding terms? You can only add terms if their variables and their exponents are the same. Is x<m>^2</m> the same as <m>x^3</m>? No. The exponents are different. So, there are no like terms, and you cannot simplify. Did you make this mistake? (The solution should be <m>x^2 + x^3</m>.)
+            </p>
+        </solution>
+    </example>
+    <warning>
+        <p>
+            You cannot add terms with different exponents.
+        </p>
+    </warning>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>y^3 \times y</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                What's wrong with this solution?
+                <assemblage>
+                    <title>Bogus Solution</title>
+                    <p>
+                        There isn't any exponent for y, so the exponent for y stays as 3. Thus, the solution is <m>y^3</m>.
+                    </p>
+                </assemblage>
+                Remember, if no exponent is written, you should write the exponent as 1. Thus, the expression would be <m>y^3 \times y^1</m>, and we can simplify that to be <m>y^4</m>.
+            </p>
+        </solution>
+        
+    </example>
+    <observation>
+        <p>
+            If no exponent is specified, write the exponent as 1.
+        </p>
+    </observation>
+    <example>
+        <statement>
+            <p>
+                Simplify the expression <m>y^2 \times x^2</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                What's wrong with this solution?
+                <assemblage>
+                    <title>Bogus Solution</title>
+                    <p>
+                        We can add the exponents, getting <m>y^4x^4</m>.
+                    </p>
+                </assemblage>
+                We can only combine exponents if the base is the same. <m>3^2 \times 2^2</m> is NOT <m>3^4</m>. Thus, the answer should be <m>x^2y^2</m>.
+            </p>
+        </solution>
+    </example>
+    <warning>
+        <p>
+            We can only combine exponents whose bases are the same.
+        </p>
+    </warning>
+    <exercise>
+        <statement>
+            <p>
+                Simplify the expression <m>p^9 \times p</m>.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                <m>p^{10}</m>
+            </p>
+        </answer>
+        <solution>
+            <p>
+                Write <m>p</m> as <m>p^1</m>. Thus, we add the exponents as follows: <m>p^9 \times p^1 = p^{9 + 1} = p^{10}</m>. Thus, the answer is <m>p^{10}</m>.
+            </p>
+        </solution>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Simplify the expression <m>q^3 \times q^2 \times q</m>.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                <m>q^6</m>
+            </p>
+        </answer>
+        <solution>
+            <p>
+                Write <m>q</m> as <m>q^1</m>. We add the exponents: 3 + 2 + 1 = 6. Thus, the final answer should be <m>q^6</m>.
+            </p>
+        </solution>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Simplify the expression <m>t^2 \times t^9</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Add the exponents: 2 + 9 = 11, so <m>t^2 \times t^9 = t^11</m>.
+            </p>
+        </solution>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Simplify the expression <m>z^{-1} \times z^3</m>.
+            </p>
+        </statement>
+        <hint>
+            <p>
+                What would you do here? Do the normal rules apply?
+            </p>
+        </hint>
+        <answer>
+            <p>
+                <m>z^2</m>
+            </p>
+        </answer>
+        <solution>
+            <p>
+                Add the exponents as normal: -1 + 3 = 2, so <m>z^{-1} \times z^3 = z^2</m>.
+            </p>
+        </solution>
+    </exercise>
+    <p>The next exercise will be more challenging.</p>
+    <exercise>
+        <statement>
+            <p>
+                Simplify the expression <m>3z^2 \times 2z^3 + z^5</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                First, we need to do multiplication. We can write <m>3z^2 \times 2z^3</m> as <m>3 \times z^2 \times 2 \times z^3</m>, which we can rearrange as <m>3 \times 2 \times z^2 \times z^3</m>. First do <m>3\times 2</m>, which is 6. Add the exponents: <m>z^2 \times z^3 = z^5</m>. So, we have <m>6z^5 + z^5</m>. Now we must add like terms: <m>6z^5</m> and <m>z^5</m> are like terms, so adding those gets <m>7z^5</m>. Thus, our answer is <m>\boxed{7z^5}</m>.
+            </p>
+        </solution>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>
+                Simplify the expression <m>y^a \times y^b</m>.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                This isn't any different to previous problems. We just add the exponents to get <m>y^a \times y^b = y^{a + b}</m>.
+            </p>
+        </solution>
+    </exercise>
+    <p>
+        Did these exercises make sense to you? Next section, we will look at dividing exponents. Are you ready?
+    </p>
+</section>

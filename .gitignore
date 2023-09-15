@@ -89,3 +89,8 @@ GitHub.sublime-settings
 .dropbox.attr
 .dropbox.cache
 
+# don't include venv
+venv/
+
+# Don't include build logs
+logs/

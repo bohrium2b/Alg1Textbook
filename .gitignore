@@ -3,8 +3,10 @@
 !.gitignore
 
 # don't track unpublished builds
-output
-
+# output
+output/web
+output/print-latex
+output/stage
 # don't track assets generated from source
 generated-assets
 

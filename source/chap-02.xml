@@ -8,4 +8,5 @@
     </introduction>
     <xi:include href="./2-1-basic-exponents.xml" />
     <xi:include href="./2-2-multiplying-exponents.xml" />
+    <xi:include href="./2-3-dividing-exponents.xml" />
 </chapter>

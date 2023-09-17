@@ -658,6 +658,42 @@ var ptx_lunr_docs = [
   "body": " Simplify the expression .   This isn't any different to previous problems. We just add the exponents to get .  "
 },
 {
+  "id": "sec-2-3-dividing-exponents",
+  "level": "1",
+  "url": "sec-2-3-dividing-exponents.html",
+  "type": "Section",
+  "number": "2.3",
+  "title": "Dividing Exponents",
+  "body": " Dividing Exponents   Hopefully, you feel relatively comfortable with the ideas presented last lesson. We will continue on this idea by disassembling exponents and exploring properties of these exponents.        Write out .    Write out .    Hence, write out .       We can write as and as . We can thus write as .      Simplify .     is 1.    We can use this same logic to divide variables (and exponents).    Simplify .    Just like the previous example, .    "
+},
+{
+  "id": "example-25",
+  "level": "2",
+  "url": "sec-2-3-dividing-exponents.html#example-25",
+  "type": "Example",
+  "number": "2.3.1",
+  "title": "",
+  "body": "     Write out .    Write out .    Hence, write out .       We can write as and as . We can thus write as .   "
+},
+{
+  "id": "example-26",
+  "level": "2",
+  "url": "sec-2-3-dividing-exponents.html#example-26",
+  "type": "Example",
+  "number": "2.3.2",
+  "title": "",
+  "body": "  Simplify .     is 1.   "
+},
+{
+  "id": "example-27",
+  "level": "2",
+  "url": "sec-2-3-dividing-exponents.html#example-27",
+  "type": "Example",
+  "number": "2.3.3",
+  "title": "",
+  "body": "  Simplify .    Just like the previous example, .   "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",

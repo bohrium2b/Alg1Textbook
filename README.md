@@ -1,3 +1,11 @@
 # An Introduction to Algebra: 10MAT and 11MCert
 
-Visit <https://pretextbook.org/documentation.html> to learn more.
+## Getting Set up
+
+You need:
+ - A latex install
+ - the pretext package
+ - lots of time and commitment :)
+
+Sometimes MiKTeX likes to complain about missing polyglossia things. You just need to install `knuth-lib` and it should be ok. 
+

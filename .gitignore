@@ -5,6 +5,7 @@
 # don't track unpublished builds
 # output
 output/web
+output/print
 output/print-latex
 output/stage
 # don't track assets generated from source
